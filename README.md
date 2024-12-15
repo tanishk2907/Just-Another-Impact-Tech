@@ -1,5 +1,3 @@
-# Just-Another-Impact-Tech
-
 # Just Another Impact Tech Repository
 
 Welcome to the **Just Another Impact Tech Repository**! This repository is designed to simulate the journey of an open-source contributor participating in impactful tech projects. Here, you can explore tasks, submit contributions, and experience the process of collaborating on open-source projects.
